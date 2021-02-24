@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, ɵɵNgOnChangesFeature } from '@angular/core';
 
 @Component({
   selector: 'app-item-list',
